@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@joi/date": "^2.1.0",
+    "@joi/date": "^2.1.1",
     "chalk": "^5.2.0",
     "commander": "^10.0.0",
     "console-table-printer": "^2.11.1",
