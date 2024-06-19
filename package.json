@@ -17,6 +17,6 @@
     "console-table-printer": "^2.11.1",
     "inquirer": "^9.1.4",
     "joi": "^17.7.0",
-    "puppeteer": "^19.6.3"
+    "puppeteer": "^22.11.2"
   }
 }
